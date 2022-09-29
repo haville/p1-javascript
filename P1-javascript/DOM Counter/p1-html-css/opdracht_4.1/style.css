@@ -1,0 +1,57 @@
+* {
+    font-size: 24px;
+}
+
+header {
+    background-image: url("./img/scherm.png");
+    width: 100vw;
+    height: 33vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(19, 143, 3);
+}
+
+
+section {
+    width: 50vw;
+    height: 20vh;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    border: 6px solid brown;
+    color: rgb(15, 124, 60);
+    font-size: 24px;
+}
+
+
+h2 {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+h3 {
+    color: teal;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(5, 32, 150);
+}
+
+
+.oke {
+    color: red;
+    font-weight: bold;
+}
+
+.a {
+    text-decoration: none;
+}

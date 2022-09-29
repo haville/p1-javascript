@@ -1,0 +1,30 @@
+*{
+    font-size: larger;
+}
+
+body{
+ font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: blue;
+    font-size: larger;
+    
+}
+h2{color: blueviolet;
+font-weight: bold;
+}
+
+h3{color: teal;
+font-weight: bold;
+font-size: larger;
+}
+
+.oke{
+    color: red;
+    font-weight: bold;
+}
+
+.a{
+    text-decoration: none;
+}
