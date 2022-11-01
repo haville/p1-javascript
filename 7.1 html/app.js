@@ -1,5 +1,5 @@
 let budget = 100;
-let product = 60;
+let product = prompt("hoeveel kost het product?");
 let par= document.getElementById("paragraaf");
 
 if (budget>product){
