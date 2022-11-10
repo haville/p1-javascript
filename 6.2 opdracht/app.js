@@ -1,3 +1,4 @@
-function kleur_aanpassen() {
-document.getElementById("tit").style.color = "red"
+
+function kleur_aanpassen(){
+    
 }
