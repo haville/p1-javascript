@@ -1,11 +1,16 @@
-let par= document.getElementById("paragraaf")
+let title = document.getElementById("paragraaf");
 
-let getal= 0
+let getal = 0;
 
-function add (){
-    getal+= 1;
-}
+function add(){
 
-if(getal==10){
-getal=0;
+    if(getal == 10){
+        getal = 0;
+
+    }else {
+        getal+=1;
+       
+    }
+    title.innerText = getal;
+    
 }
